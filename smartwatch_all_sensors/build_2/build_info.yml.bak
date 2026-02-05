@@ -1,0 +1,6 @@
+west:
+  command: C:\ncs\toolchains\0b393f9e1b\opt\bin\Scripts\west build --build-dir c:/Users/chaud/smartwatch_all_sensors/build_2
+    c:/Users/chaud/smartwatch_all_sensors --pristine --board nrf52840dk/nrf52840 --
+    -DCONFIG_DEBUG_THREAD_INFO=y
+  topdir: c:\ncs\v3.0.2
+  version: 1.2.0
